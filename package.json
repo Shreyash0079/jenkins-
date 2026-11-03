@@ -1,0 +1,14 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+   "scripts": {
+    "build": "node --check app.js",
+    "start": "node app.js",
+    "test": "node test.js"
+  }
+}
